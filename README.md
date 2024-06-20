@@ -24,7 +24,7 @@ In my opinion, the best thing about an answer file is that it’s very safe.
 
 ## What does Memory's UnattendedWinstall answer file do?
 
-I've taken the time to add descriptions to almost all of the tweaks in the [autounattended.xml](https://github.com/memstechtips/UnattendedWinstall/blob/main/autounattend.xml) answer file, and you can inspect it right here on GitHub.
+I've taken the time to add descriptions to almost all of the tweaks in the [autounattended.xml](https://github.com/foontzoot/UnattendedWinInstall/blob/main/autounattend.xml) answer file, and you can inspect it right here on GitHub.
 
 Alternatively, you can download the file and use any one of the following programs to open it, inspect it and make changes to it if needed.  
 
@@ -92,13 +92,13 @@ Additionally, you can also add more tweaks or customizations if you have the kno
 
 ## Usage Instructions
 
-In short, you need to include the [autounattended.xml](https://github.com/memstechtips/UnattendedWinstall/blob/main/autounattend.xml) answer file on your Windows Installation Media so it can be read and executed during the Windows Setup. Here are a few ways to do it:
+In short, you need to include the [autounattended.xml](https://github.com/foontzoot/UnattendedWinInstall/blob/main/autounattend.xml) answer file on your Windows Installation Media so it can be read and executed during the Windows Setup. Here are a few ways to do it:
 
 *If these instructions are unclear, maybe [this video](https://youtu.be/JUTdRZNqODY) will help.*
 
 ### Method 1: Create a Bootable Windows Installation Media
 
-1. Download the [autounattended.xml](https://github.com/memstechtips/UnattendedWinstall/blob/main/autounattend.xml) file and save it on your computer.
+1. Download the [autounattended.xml](https://github.com/foontzoot/UnattendedWinInstall/blob/main/autounattend.xml) file and save it on your computer.
 2. Create a Windows 10 or 11 Bootable Installation USB drive with the Media Creation Tool or Rufus, for example. (When using Rufus, don’t select any of the checkboxes in “Customize Your Windows Experience” as it creates another answer file, we don't want that.)
    - [Download Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
    - [Download Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
@@ -108,7 +108,7 @@ In short, you need to include the [autounattended.xml](https://github.com/memste
 
 ### Method 2: Create a Custom ISO File
 
-1. Download the [autounattended.xml](https://github.com/memstechtips/UnattendedWinstall/blob/main/autounattend.xml) file and save it on your computer.
+1. Download the [autounattended.xml](https://github.com/foontzoot/UnattendedWinInstall/blob/main/autounattend.xml) file and save it on your computer.
 2. Download the Windows 10 or Windows 11 ISO file depending on the version you want.
    - [Download Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
    - [Download Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
