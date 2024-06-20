@@ -1,4 +1,4 @@
-# Memory’s Tech Tips’ Unattended Windows Installation
+# Unattended Windows Installation
 
 ## Overview
 
@@ -125,6 +125,6 @@ In short, you need to include the [autounattended.xml](https://github.com/memste
 
 ## Conclusion
 
-I hope this Unattended Windows Answer file helps streamline the Windows installation process as much as it has for me. Feel free to leave Your feedback and suggestions as they are always welcome! Also, if you find these scripts useful, consider giving this repository a star ⭐ on GitHub.
+I hope this Unattended Windows Answer file helps streamline the Windows installation process as much as it has for me. Feel free to leave Your feedback and suggestions as they are always welcome!
 
 Happy installing!
